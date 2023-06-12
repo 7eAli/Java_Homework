@@ -28,7 +28,6 @@ public class Task_1 {
                     request.append(" " + "AND");
                 }
             }
-            System.out.println(request);
         }
         System.out.println(request);
     }
