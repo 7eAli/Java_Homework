@@ -22,7 +22,7 @@ public class Task_4 {
         int number_of_solutions = 0;
         String temp = elements[0];
         String[] unknown_numbers = temp.split("\\+");
-        for (int i = 1; i < 10; i++)
+        for (int i = 0; i < 10; i++)
         {
             x_num_1 = convert_unknown(i, unknown_numbers[0]);
             x_num_2 = convert_unknown(i, unknown_numbers[1]);
