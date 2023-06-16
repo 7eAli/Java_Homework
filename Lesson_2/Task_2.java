@@ -16,7 +16,7 @@ public class Task_2
     public static void main(String[] args) throws IOException
     {
         Logger ll = Logger.getLogger(Task_2.class.getName());
-        FileHandler fh = new FileHandler("Lesson_2\\log.txt", true);            
+        FileHandler fh = new FileHandler("Lesson_2\\log_task_2.txt", true);            
         SimpleFormatter formatter = new SimpleFormatter();
         ll.addHandler(fh);
         fh.setFormatter(formatter);
