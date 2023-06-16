@@ -1,0 +1,94 @@
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+WARNING: Logger on
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 8, 9, 5, 5, 1, 2, 6, 1, 1]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 8, 9, 5, 5, 1, 2, 6, 1, 1]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 8, 5, 9, 5, 1, 2, 6, 1, 1]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 8, 5, 5, 9, 1, 2, 6, 1, 1]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 8, 5, 5, 1, 9, 2, 6, 1, 1]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 8, 5, 5, 1, 2, 9, 6, 1, 1]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 8, 5, 5, 1, 2, 6, 9, 1, 1]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 8, 5, 5, 1, 2, 6, 1, 9, 1]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 8, 5, 5, 1, 2, 6, 1, 1, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 8, 5, 5, 1, 2, 6, 1, 1, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 8, 5, 1, 2, 6, 1, 1, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 5, 8, 1, 2, 6, 1, 1, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 5, 1, 8, 2, 6, 1, 1, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 5, 1, 2, 8, 6, 1, 1, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 5, 1, 2, 6, 8, 1, 1, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 5, 1, 2, 6, 1, 8, 1, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 5, 1, 2, 6, 1, 1, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 5, 1, 2, 6, 1, 1, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 5, 1, 2, 6, 1, 1, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 1, 5, 2, 6, 1, 1, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 1, 2, 5, 6, 1, 1, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 1, 2, 5, 6, 1, 1, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 1, 2, 5, 1, 6, 1, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 1, 2, 5, 1, 1, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 5, 1, 2, 5, 1, 1, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 1, 5, 2, 5, 1, 1, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 1, 2, 5, 5, 1, 1, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 1, 2, 5, 5, 1, 1, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 1, 2, 5, 1, 5, 1, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [2, 1, 2, 5, 1, 1, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 2, 2, 5, 1, 1, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 2, 2, 5, 1, 1, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 2, 2, 5, 1, 1, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 2, 2, 1, 5, 1, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 2, 2, 1, 1, 5, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 2, 2, 1, 1, 5, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 2, 2, 1, 1, 5, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 2, 1, 2, 1, 5, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 2, 1, 1, 2, 5, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 2, 1, 1, 2, 5, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 1, 2, 1, 2, 5, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 1, 1, 2, 2, 5, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 1, 1, 2, 2, 5, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 1, 1, 2, 2, 5, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+INFO: [1, 1, 1, 2, 2, 5, 5, 6, 8, 9]
+θών. 16, 2023 2:18:11 PM Lesson_2.Task_2 Bubble_Sort
+WARNING: Logger off
